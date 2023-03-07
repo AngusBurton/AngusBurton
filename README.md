@@ -1,4 +1,7 @@
-### Hi there 👋
+
+👋 Hi I'm Angus.   
+👀 I’m interested in Backend development with a focus on cybersecurity and defensive programming.  
+🎓 I'm currently studying to become a Software Engineer sub majoring in information security.
 
 <!--
 **AngusBurton/AngusBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
